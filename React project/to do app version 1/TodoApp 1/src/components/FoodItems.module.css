@@ -1,0 +1,11 @@
+.kg-item{
+background-color: rgb(157, 157, 174);
+color: red;
+}
+.kg-span{
+    font-weight: 900;
+}
+button{
+    float: right;
+    margin: 13px 5px;
+}
